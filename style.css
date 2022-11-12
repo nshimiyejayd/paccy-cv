@@ -1,0 +1,68 @@
+.container-all{
+	margin-left: 342.5px;
+	width: 595px;
+	height: 842px;
+	background-color: white;
+	border-top: solid 10px black;
+
+}
+	header {
+  position: sticky;
+  top: 0;
+  background-color: #238887;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+.cover{
+	background-color: lightblue;
+}
+h3{
+	margin-left: 20px; 
+}
+	p{
+	margin-left: 20px; 
+}
+.part-title-image h4{
+	margin-top: 0px;
+	margin-left: 20px;
+}
+.part-title-image:hover{
+	cursor: pointer;
+}
+ h5{
+	margin-left: 20px;
+}
+.summary-part{
+	width: 300px;
+}
+ h5{
+	margin-left: 20px;
+}
+.experience-part{
+	width: 300px;
+	}
+
+ h5{
+	margin-left: 20px;
+}
+.education-part{
+	width: 300px;
+	}
+.part-left{
+  width:160px;
+  margin-left: 75px; 
+  }
+  img{
+  	border-radius: 150px;
+  	width: 150px;
+  	height: 110px;
+  	margin-left: 150px; 
+}
+footer {
+  background-color: black;
+  padding: 3px;
+  text-align: center;
+  color: white;
+}
